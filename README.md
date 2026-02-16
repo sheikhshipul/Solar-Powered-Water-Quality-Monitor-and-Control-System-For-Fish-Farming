@@ -128,6 +128,3 @@ ThingSpeak provides:
   - system-controlled tank achieved **90% survival over 20 days** (1 casualty out of 10 fish)
 
 ---
-
-You can organize the repo like this:
-
